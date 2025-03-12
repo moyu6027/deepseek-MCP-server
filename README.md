@@ -1,7 +1,10 @@
 # 🧠  DeepSeek MCP Server
 
-
 ![DeepSeek MCP Server](public/images/deep-mcp.png)
+
+<a href="https://glama.ai/mcp/servers/vqjia4yxps">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/vqjia4yxps/badge" alt="DeepSeek Server MCP server" />
+</a>
 
 ## 🚀 Features
 
@@ -32,22 +35,14 @@
 - Designed for precision and efficiency in generating thoughtful responses.
 - 使用无问芯穹的API
 
-
-
-
-
-
 ---
 
 ## Complete Setup guide
-
 
 ### Prerequisites
 - Python 3.12 or higher
 - `uv` package manager
 - INFINI_API_KEY For DeepSeek (Sign up at [无问芯穹](https://cloud.infini-ai.com/genstudio/model))
-
-
 
 1. **Clone the Repository**
    ```bash
@@ -124,7 +119,6 @@ The server automatically starts when used with Claude Desktop. Ensure Claude Des
 4. Claude integrates the reasoning into its final response.
 
 ---
-
 
 ## 📄 License
 
